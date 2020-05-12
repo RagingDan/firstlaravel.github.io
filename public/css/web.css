@@ -1,0 +1,22 @@
+#btn-history{
+  background-color: maroon;
+}
+#divider{
+  border-color: maroon;
+}
+#about{
+  background-color: maroon;
+}
+#fa-fa{
+  color: maroon;
+}
+#fa-text{
+  color: black;
+  text-decoration: none;
+}
+#fa-text:hover{
+  background-color: maroon;
+  color:white;
+  padding: 20px;
+  border-radius: 50%;
+}
